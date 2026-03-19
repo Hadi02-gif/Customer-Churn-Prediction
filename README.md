@@ -35,12 +35,12 @@ To predict customer churn based on a transactional sales dataset (`sample_supers
 
 ### Feature Importances in Churn Prediction Model
 ![Feature Importances](images/feature_importances.png)
-*(Replace `images/feature_importances.png` with the actual path to your image after uploading it.)*
+
 
 ### Model Performance Comparison
 ![Model Performance Comparison](images/model_comparison.png)
-*(Replace `images/model_comparison.png` with the actual path to your image after uploading it.)*
+
 
 ### Feature Importances for Corporate Segment
 ![Feature Importances Corporate Segment](images/feature_importance_corporate.png)
-*(Replace `images/feature_importances_corporate.png` with the actual path to your image after uploading it.)*
+
