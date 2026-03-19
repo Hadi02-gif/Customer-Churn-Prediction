@@ -44,3 +44,4 @@ To predict customer churn based on a transactional sales dataset (`sample_supers
 ### Feature Importances for Corporate Segment
 ![Feature Importances Corporate Segment](images/feature_importance_corporate.png)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/Customer-Churn-Prediction/blob/main/Predicting_customer_churn.ipynb)
