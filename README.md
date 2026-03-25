@@ -31,7 +31,6 @@ To predict customer churn based on a transactional sales dataset (`sample_supers
 *   **Continuous Monitoring & Improvement:** Churn prediction is an iterative process. Regularly update models with new data, re-evaluate feature importance, and adapt retention strategies based on ongoing performance and market changes.
 
 ## Key Visualizations
-*(To add visualizations, you will need to save the plots as image files (e.g., PNG, JPEG) from your Colab notebook or by taking screenshots and then upload them to your GitHub repository. Once uploaded, you can link them here. For example:)*
 
 ### Feature Importances in Churn Prediction Model
 ![Feature Importances](images/feature_importances.png)
